@@ -11,7 +11,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/marisa-vieira-santos-6664a2173/" target="_blank"><img src=""></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ### Olá eu sou o Marcelo, e aqui está algumas informações do meu perfil!
 <div align="center">
@@ -20,6 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-  ![Snake animation](https://github.com/marisavieira/marisavieira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarceloMFerreira/MarceloMFerreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
