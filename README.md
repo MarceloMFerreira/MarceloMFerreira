@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white.svg">
   <img align="center" alt="icon-c" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white.svg">
-  <img align="center" alt="icon-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.svg">
+  <img align="center" alt="icon-HTML" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oicIUVtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite.svg">
   <img align="center" alt="icon-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white.svg">
 </div>
   
