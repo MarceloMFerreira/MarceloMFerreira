@@ -9,10 +9,11 @@
   ##
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcelomf.0071@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ### Olá eu sou o Marcelo, e aqui está algumas informações do meu perfil!
+  
+  ### Olá eu sou o Marcelo, e aqui estão algumas informações do meu perfil!
 <div align="center">
   <a href="https://github.com/MarceloMFerreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloMFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
