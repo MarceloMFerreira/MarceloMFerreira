@@ -10,8 +10,7 @@
  
 <div> 
   <a href = "mailto:marcelomf.0071@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://www.linkedin.com/in/marcelo--martins-ferreira/"></a> 
-  
+  <a href="https://www.linkedin.com/in/marcelo--martins-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
   ### Olá eu sou o Marcelo, e aqui estão algumas informações do meu perfil!
 <div align="center">
