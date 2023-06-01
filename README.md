@@ -27,12 +27,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact&langs_count=7&hide_border=true&theme=dracula" alt="Top Languages">
   </a>
 </div>
-
-
- <div align="center" style="display: inline_block">
-  <h3>Contato:</h3>
- </div>
-<div> 
+##
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMFerreira&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
