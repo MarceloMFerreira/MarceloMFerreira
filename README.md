@@ -21,10 +21,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillianSi&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMFerreira&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <p align="center">
-  <img src="https://github.com/MarceloMFerreira/WillianSi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/MarceloMFerreira/MarceloMFerreira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
   </p>
   
   <div align="center">
