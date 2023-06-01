@@ -13,11 +13,12 @@
 
 
 ##
- 
+<h3>Contato:</h3>
 <div> 
-  <a href="mailto:marcelomf.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:marcelomf.007@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo--martins-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
 
 ### Olá, eu sou o Marcelo, e aqui estão algumas informações do meu perfil!
 
@@ -27,6 +28,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact&langs_count=7&hide_border=true&theme=dracula" alt="Top Languages">
   </a>
 </div>
+
 ##
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMFerreira&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
