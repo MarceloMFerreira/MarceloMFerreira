@@ -18,19 +18,18 @@
   <a href="https://www.linkedin.com/in/marcelo--martins-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
+### Olá, eu sou o Marcelo, e aqui estão algumas informações do meu perfil:
 
-### Olá, eu sou o Marcelo, e aqui estão algumas informações do meu perfil!
 
-<div align="center">
-  <a href="https://github.com/MarceloMFerreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloMFerreira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="GitHub Stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact&langs_count=7&hide_border=true&theme=dracula" alt="Top Languages">
-  </a>
-</div>
+  ![Marcelo Status](https://github-readme-stats.vercel.app/api?username=MarceloMFerreira&show_icons=true)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ##
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMFerreira&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloMFerreira&bg_color=ffffff&color=007bff&line=007bff&point=007bff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
  
  
