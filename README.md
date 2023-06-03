@@ -20,9 +20,12 @@
 
 ### Olá, eu sou o Marcelo, e aqui estão algumas informações do meu perfil:
 
-
+<div align="center">
+  
   ![Marcelo Status](https://github-readme-stats.vercel.app/api?username=MarceloMFerreira&show_icons=true)
   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMFerreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
